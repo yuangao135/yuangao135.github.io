@@ -22,11 +22,11 @@ repository               : "yuangao135/yuangao135.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuan Gao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UBC"
   uri              : # URL
   email            : "none@example.org" 
 
