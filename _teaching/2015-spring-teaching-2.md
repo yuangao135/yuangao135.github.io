@@ -4,7 +4,7 @@ collection: teaching
 #type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "UBCO"
-date: Summer 2024
+#date: Summer 2024
 #location: "City, Country"
 ---
 
