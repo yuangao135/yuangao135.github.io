@@ -1,7 +1,7 @@
 ---
 title: "STAT 230"
 collection: teaching
-type: "Undergraduate course"
+#type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UBCO"
 date: Spring 2024
