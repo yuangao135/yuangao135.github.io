@@ -1,11 +1,11 @@
 ---
 title: "MATH 101"
 collection: teaching
-#type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Teaching Assistant"
+permalink: /teaching/2014-spring-teaching-1
 venue: "UBCO"
-#date: Summer 2024
-#location: "City, Country"
+date: 2024-01-01
+location: "City, Country"
 ---
 
 Definite integral, integration techniques, applications, modelling, linear ODE's.
